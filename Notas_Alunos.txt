@@ -1,0 +1,51 @@
+Numero do Aluno:2019004     Ano Curso   Nome: 
+Disciplina:  Ciencias        1 Bim: 5   Falta 1 Bim: 9
+Disciplina:  Historia        1 Bim: 9   Falta 1 Bim: 10
+Disciplina:  Matematica      1 Bim: 10   Falta 1 Bim: 2
+Disciplina:  Portugues       1 Bim: 10   Falta 1 Bim: 2
+
+
+Numero do Aluno: 2019005     Ano Curso    Nome: 
+Disciplina:  Selecione      1 Bim:    Falta 1 Bim: 
+Disciplina:  Selecione      1 Bim:    Falta 1 Bim: 
+Disciplina:  Selecione      1 Bim:    Falta 1 Bim: 
+Disciplina:  Selecione      1 Bim:    Falta 1 Bim: 
+
+
+Numero do Aluno: 2019006      Ano Curso     Nome: 
+Disciplina:  Selecione      1 Bim:    Falta 1 Bim: 
+Disciplina:  Selecione      1 Bim:    Falta 1 Bim: 
+Disciplina:  Selecione      1 Bim:    Falta 1 Bim: 
+Disciplina:  Selecione      1 Bim:    Falta 1 Bim: 
+
+Nome: 
+Numero do Aluno:     Ano Curso
+Disciplina:  Ciencias        1 Bim:    Falta 1 Bim: 
+Disciplina:  Selecione      1 Bim:    Falta 1 Bim: 
+Disciplina:  Selecione      1 Bim:    Falta 1 Bim: 
+Disciplina:  Selecione      1 Bim:    Falta 1 Bim: 
+
+Nome: 
+Numero do Aluno:     Ano Curso
+Disciplina:  Ciencias        1 Bim:    Falta 1 Bim: 
+Disciplina:  Selecione      1 Bim:    Falta 1 Bim: 
+Disciplina:  Selecione      1 Bim:    Falta 1 Bim: 
+Disciplina:  Selecione      1 Bim:    Falta 1 Bim: 
+
+Nome: 
+Numero do Aluno:     Ano Curso
+Disciplina:  Ciencias        1 Bim:    Falta 1 Bim: 
+Disciplina:  Historia        1 Bim:    Falta 1 Bim: 
+Disciplina:  Matematica      1 Bim:    Falta 1 Bim: 
+Disciplina:  Portugues       1 Bim:    Falta 1 Bim: 
+
+Numero do Aluno: 2019001 Nome: Mehir Kassem Hamdan Ano Curso2/2019 Disciplina:  Ciencias   1 Bim: 10 Falta 1 Bim: 0 Disciplina:  Ciencias   1 Bim: 10 Falta 1 Bim: 0 Disciplina:  Historia   1 Bim: 10 Falta 1 Bim: 1 Disciplina:  Matematica 1 Bim: 9 Falta 1 Bim: 0 Disciplina:  Portugues  1 Bim: 9 Falta 1 Bim: 0
+
+Numero do Aluno:  Nome:  Ano Curso Disciplina:  Ciencias   1 Bim:  Falta 1 Bim:  Disciplina:  Ciencias   1 Bim:  Falta 1 Bim:  Disciplina:  Historia   1 Bim:  Falta 1 Bim:  Disciplina:  Matematica 1 Bim:  Falta 1 Bim:  Disciplina:  Portugues  1 Bim:  Falta 1 Bim: 
+
+Numero do Aluno: 2019003 Nome: eudalina salinas de hamdan Ano Curso2019
+ Disciplina:  Ciencias   1 Bim: 10 Falta 1 Bim: 0
+ Disciplina:  Historia   1 Bim: 10 Falta 1 Bim: 0
+ Disciplina:  Historia   1 Bim: 8 Falta 1 Bim: 0
+ Disciplina:  Portugues  1 Bim: 8 Falta 1 Bim: 2
+

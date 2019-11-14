@@ -1,0 +1,13 @@
+Matriculado: true
+
+Nome:    Ano Curso:  1 Ano    Codigo do Aluno
+
+Data Nascimento:     Cpf Aluno:     Rg do Aluno: Sexo: Femenino
+
+Curso: Ensino Fundamental    Endereco: 
+
+Responsavel:     Cpf Responsavel: 
+
+Telefone: E_mail: 
+
+Mehir

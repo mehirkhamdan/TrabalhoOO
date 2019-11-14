@@ -1,0 +1,4 @@
+Codigo do Aluno: 2019001  Nome: mehir kassem hamdan   Ano Curso:  4 AnoData Nascimento: 11/08/1972    Cpf Aluno: 82981159968    Rg do Aluno: 342266962Sexo: MasculinoData Nascimento: 11/08/1972    Cpf Aluno: 82981159968    Rg do Aluno: 342266962Sexo: MasculinoCurso: Ensino Fundamental    Endereco: Rua belarmino de mendonca 880 apto 1164Responsavel: Elza Hamdan    Cpf Responsavel: 98745632101Telefone: 045 35235214E_mail: mehir.hamdan@gmail.com
+;
+Codigo do Aluno: 20019002  Nome: Eudalina salinas de hamdan   Ano Curso:  2 AnoData Nascimento: 11/08/1976    Cpf Aluno: 82981159932    Rg do Aluno: 3422669621Sexo: FemeninoData Nascimento: 11/08/1976    Cpf Aluno: 82981159932    Rg do Aluno: 3422669621Sexo: FemeninoCurso: Ensino Medio    Endereco: Responsavel: Angela Roa    Cpf Responsavel: 12365478998Telefone: 045 999211223E_mail: euda@hotmail.com
+;
